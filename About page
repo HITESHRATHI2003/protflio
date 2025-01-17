@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Me</title>
+    <link rel="stylesheet" href="about.css" />
+  </head>
+  <body>
+    <section class="about-me">
+      <h1>
+        <center>About <span>Me</span></center>
+      </h1>
+      <div class="profile">
+        <div class="profile-img">
+          <img src="portfolio image.jpg" alt="Profile Image" />
+        </div>
+        <div class="profile-info">
+          <h2>I'm Hitesh Rathi</h2>
+          <h3>cyber security&web developer</h3>
+          <p>
+            I am a cyber security specialistAs a cybersecurity specialist, I
+            play a crucial role in safeguarding an organization's digital assets
+            by identifying vulnerabilities, preventing attacks, and responding
+            to security breaches. I have expertise in threat analysis, network
+            security, and implementing protective measures such as firewalls and
+            encryption. With a deep understanding of both hardware and software
+            vulnerabilities, you are skilled in ethical hacking, penetration
+            testing, and compliance with security protocols. I Have work ensures
+            the integrity, confidentiality, and availability of sensitive
+            information while staying ahead of evolving cyber threats.
+          </p>
+          <ul>
+            <li>Email: Hiteshrathi2003@gmail.com</li>
+            <li>Place: Delhi, India - 110036</li>
+          </ul>
+          <button class="resume-btn">Resume</button>
+        </div>
+      </div>
+    </section>
+    <script src="about.js"></script>
+  </body>
+</html>
